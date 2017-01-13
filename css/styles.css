@@ -1,7 +1,35 @@
+.right-justify {
+  text-align: right;
+}
+
+body {
+  background-color: #e9ffe5;
+}
+
 .jumbotron {
+  background-color: #c7eaf9;
+  font-family: 'Annie Use Your Telescope', cursive;
   padding-left: 10%;
 }
 
-.right-justify {
+h1 {
+  font-size: 150px !important;
+}
+
+h3 {
+  font-size: 60px !important;
   text-align: right;
+  margin-right: 10%;
+}
+
+.btn:hover {
+  background-color: #e9ffe5;
+}
+
+.well {
+  background-color: #c7eaf9;
+}
+
+.form-control {
+  background-color: #c7eaf9;
 }
